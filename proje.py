@@ -7,4 +7,4 @@ def flatten(x):
         else:
             output1.append(i)
     return output1
-print(flatten(input1))
+print(flatten(input1))ab
