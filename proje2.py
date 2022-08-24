@@ -6,4 +6,4 @@ l = l[::-1]
 
 for i in range(len(l)):
     (l[i]) = (l[i]) [::-1]
-print(l)
+print(l)s
